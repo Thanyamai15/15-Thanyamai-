@@ -6,5 +6,13 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+a = int(input(1))
+b = int(input(2))
+input = ins(1) > (2) 
+print = Input((1 > 2))
+print = input "1 is greater"
+print = Input((1 > 2))
+print = input "1 is greater"
+print = Input((1 <= 2))
+print = input "2 is greater or equal "
+Output = stop
