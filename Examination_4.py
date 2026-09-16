@@ -6,4 +6,10 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-color = input()
+color = input(red)
+output = ins("slow")
+ color = input(yellow)
+output = ins("slow")
+ color = input(green)
+output = ins("go")
+input = ("Invalid")
