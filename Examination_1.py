@@ -8,3 +8,7 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 total_minutes = int(input(60 นาที))
 total_hour = int(input( 1 ชั่วโมง))
+total_hour = int(Input( 30 นาที ))
+Output_minutes = int(input(60 นาที ,1 ชั่วโมง , 30 นาที ))
+print = int(input(60 นาที))
+print = int(input( 1 ชั่วโมง))
