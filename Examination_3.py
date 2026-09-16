@@ -6,4 +6,5 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-password = input()
+password = input(string)
+password = input(ins( pass )) >(( 8 Too Short))
