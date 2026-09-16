@@ -6,4 +6,5 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-total_minutes = int(input())
+total_minutes = int(input(60 นาที))
+total_hour = int(input( 1 ชั่วโมง))
